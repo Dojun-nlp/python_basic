@@ -1,5 +1,6 @@
 # python_basic
-These are codes for python beginner. 
+These are codes provided by 위키북스.
+link: https://wikibook.co.kr/python-for-data-analysis/
 
 ## Chapter_03_Calculator
 
