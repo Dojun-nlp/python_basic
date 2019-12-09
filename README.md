@@ -1,6 +1,6 @@
 # python_basic
-These are codes provided by 위키북스 <br/>
-link: https://wikibook.co.kr/python-for-data-analysis/
+These are codes provided by 위키북스. <br/>
+https://wikibook.co.kr/python-for-data-analysis/
 
 ## Chapter_03_Calculator
 
