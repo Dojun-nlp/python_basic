@@ -8,9 +8,7 @@ These are codes for python beginner.
 * 과학적 표기법
 * 진수 표현과 변환
 * 논리 연산 및 비교 연산
-```bash
-print('Hello World!')
-```
+
 
 ## Chapter_04_Variable_DataType
 * 변수
