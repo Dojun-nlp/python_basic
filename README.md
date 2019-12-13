@@ -5,7 +5,7 @@ https://wikibook.co.kr/python-for-data-analysis/
 ## Chapter_03_Calculator
 
 * 간단한 사칙 연산
-* 거듭 제곱과 나머니
+* 거듭 제곱과 나머지
 * 과학적 표기법
 * 진수 표현과 변환
 * 논리 연산 및 비교 연산
@@ -55,6 +55,7 @@ https://wikibook.co.kr/python-for-data-analysis/
 * 모듈을 직접 실행하는 경우와 임포트한 후 실행하는 경우 구분하기
 * 내장 모듈
 * 패키지
+
 ## Chapter_11_NumPy_pandas
 * 배열 데이터를 효과적으로 다루는 NumPy
 * 구조적 데이터 표시와 처리에 강한 pandas
@@ -71,7 +72,7 @@ https://wikibook.co.kr/python-for-data-analysis/
 
 ## Chapter_14_Web_Scraping
 * 웹 브라우저로 웹 사이트 접속하기
-* 웹 스크레이핑응ㄹ 위한 기본 지식
+* 웹 스크레이핑을 위한 기본 지식
 * 웹 사이트에서 데이터 가져오기
 
 ## Chapter_15_Web_API
