@@ -1,4 +1,5 @@
-# python_basic
+# python_tutorial
+
 These are example codes for an exercise provided by Wikibooks. <br/>
 https://wikibook.co.kr/python-for-data-analysis/
 
