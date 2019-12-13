@@ -1,5 +1,5 @@
 # python_basic
-These are codes provided by 위키북스. <br/>
+These are example codes for an exercise provided by Wikibooks. <br/>
 https://wikibook.co.kr/python-for-data-analysis/
 
 ## Chapter_03_Calculator
